@@ -1,0 +1,8 @@
+body    {
+    background-color: black;  
+    color: red;
+}
+body:hover{
+    color: white;
+    font-size: 49px;
+}
